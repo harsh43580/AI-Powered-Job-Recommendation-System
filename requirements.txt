@@ -1,0 +1,14 @@
+sentence-transformers
+torch
+transformers
+scikit-learn
+numpy
+tqdm
+qdrant-client
+streamlit
+PyPDF2
+pdf2image
+pytesseract
+Pillow
+python-dotenv
+keybert

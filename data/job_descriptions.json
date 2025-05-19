@@ -1,0 +1,676 @@
+[
+  {
+    "job_id": "1",
+    "title": "AI/ML Engineer",
+    "description": "Design and develop AI applications using AI tools and cloud services. Apply Generative AI, deep learning, and image processing techniques while collaborating with cross-functional teams.",
+    "skills": ["AI Tools", "Cloud AI Services", "Generative AI", "Deep Learning", "Neural Networks", "Chatbots", "Image Processing", "Collaboration"],
+    "qualification": "Bachelor's degree in Computer Science, Engineering, or a related field; proficiency in AI/ML tools and cloud services; strong problem-solving skills; effective collaboration abilities.",
+    "company_culture": "Accenture fosters a collaborative environment, emphasizing continuous learning and innovation. Employees are encouraged to lead projects and engage with multiple teams to drive impactful solutions.",
+    "responsibilities": [
+      "Design and develop applications utilizing AI tools and cloud AI services",
+      "Apply Generative AI models, deep learning, neural networks, chatbots, and image processing",
+      "Collaborate with cross-functional teams for integration and guidance",
+      "Stay updated with advancements in AI/ML and implement innovative solutions"
+    ]
+  },
+  {
+    "job_id": "2",
+    "title": "AI/ML Data Engineer",
+    "description": "Develop AI/ML algorithms for predictions, optimize deep learning models, and integrate generative models into production systems.",
+    "skills": ["AI/ML Algorithms", "Deep Learning", "Generative AI", "Image Synthesis", "Voice Processing", "Recommendation Engines", "Data Pipelines", "Cloud Platforms (AWS, Azure, GCP)"],
+    "qualification": "Bachelor's degree in Engineering; experience with recommendation engines, data pipelines, and distributed machine learning; knowledge of cloud platforms (AWS, Azure, GCP); strong analytical and problem-solving skills.",
+    "company_culture": "Accelon Inc. promotes a dynamic and innovative work environment, encouraging employees to explore new technologies and collaborate across teams to deliver cutting-edge solutions.",
+    "responsibilities": [
+      "Develop AI/ML algorithms for large dataset analysis",
+      "Implement and optimize deep learning models for image and voice generation",
+      "Integrate Generative AI models into production systems",
+      "Evaluate AI/ML algorithm applicability across use cases"
+    ]
+  },
+  {
+    "job_id": "3",
+    "title": "AI Data Engineer",
+    "description": "Develop and deploy machine learning and deep learning models. Work with Generative AI, Large Language Models, and frameworks such as Langchain.",
+    "skills": ["Machine Learning", "Deep Learning", "Generative AI", "Large Language Models", "Langchain", "Python", "TensorFlow", "PyTorch", "Keras", "Spacy", "scikit-learn"],
+    "qualification": "Over 5 years of experience in AI/ML, including Generative AI and LLMs; proficiency in Python; experience with ML frameworks like TensorFlow, PyTorch, Keras, Spacy, and scikit-learn; strong problem-solving abilities.",
+    "company_culture": "NTT DATA is a global innovator committed to helping clients innovate, optimize, and transform for long-term success. The company values diversity and fosters an inclusive environment.",
+    "responsibilities": [
+      "Develop and implement traditional ML algorithms, including deep learning and neural networks",
+      "Deploy models in production and maintain Python code for ML projects",
+      "Work with Generative AI and Large Language Models",
+      "Utilize Langchain and similar frameworks for integration"
+    ]
+  },
+  {
+    "job_id": "4",
+    "title": "Data Engineer",
+    "description": "Design data pipelines and manage cloud-based data warehouses. Ensure data governance and work with analysts to deliver business-focused data solutions.",
+    "skills": ["Python", "SQL", "Spark", "Kafka", "Airflow", "Data Warehousing", "AWS", "Azure", "GCP", "Data Governance"],
+    "qualification": "Bachelor's degree in Computer Science, Engineering, Mathematics, or related field; proficiency in data pipeline tools and frameworks; experience with cloud services and data warehouse technologies; strong analytical skills.",
+    "company_culture": "Air India offers a collaborative work environment focused on innovation and excellence in the aviation industry. Employees are encouraged to contribute to the company's growth and success.",
+    "responsibilities": [
+      "Design and implement data pipelines using tools like Python, SQL, Spark, Kafka, and Airflow",
+      "Build and maintain cloud-based data warehouses and data marts",
+      "Collaborate with data analysts and scientists for business-aligned data solutions",
+      "Ensure data security, privacy, and compliance with governance standards"
+    ]
+  },
+  {
+    "job_id": "5",
+    "title": "AI/ML Engineer",
+    "description": "Design AI applications using Google Cloud ML Services, implement deep learning models, develop chatbots, and lead AI initiatives across teams.",
+    "skills": ["Google Cloud ML", "Generative AI", "Deep Learning", "Neural Networks", "Chatbot Development", "Leadership", "Team Management"],
+    "qualification": "Minimum 7.5 years of experience in AI/ML, with at least 4 years in Google Cloud Machine Learning Services; proficiency in Generative AI and chatbot development; strong educational background in computer science or related fields; leadership and team management skills.",
+    "company_culture": "Accenture encourages leadership and innovation, providing opportunities for employees to manage teams and contribute to key decisions across projects.",
+    "responsibilities": [
+      "Design and develop AI applications using Google Cloud ML Services",
+      "Implement deep learning models and neural networks",
+      "Create and deploy chatbot solutions with production quality",
+      "Lead AI project implementations and collaborate with teams"
+    ]
+  },
+  {
+    "job_id": "6",
+    "title": "Frontend Developer",
+    "description": "Develop responsive web interfaces using modern frontend technologies. Work closely with designers and backend developers to create seamless user experiences.",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Vue.js", "TypeScript", "REST APIs", "Responsive Design"],
+    "qualification": "Bachelor’s degree in Computer Science or related field; 2–4 years of experience in frontend development; proficiency in JavaScript frameworks; strong UI/UX understanding.",
+    "company_culture": "We value creativity and clean code. Collaboration with design and product teams is encouraged to continuously improve the user experience.",
+    "responsibilities": [
+      "Develop and maintain web applications with modern frontend frameworks",
+      "Convert design mockups into functional UI components",
+      "Optimize applications for performance and scalability",
+      "Collaborate with backend developers to integrate APIs"
+    ]
+  },
+  {
+    "job_id": "7",
+    "title": "Backend Developer",
+    "description": "Design and build scalable backend systems and APIs to support web and mobile applications. Ensure high performance, security, and reliability.",
+    "skills": ["Node.js", "Express", "Django", "REST APIs", "GraphQL", "Databases (SQL & NoSQL)", "Authentication", "Docker"],
+    "qualification": "Bachelor’s degree in Computer Science or related field; 3+ years of backend development experience; strong database and API design skills.",
+    "company_culture": "We're a backend-heavy team that focuses on robust architecture and clean code. Engineers are empowered to own projects from start to deployment.",
+    "responsibilities": [
+      "Develop and maintain backend services and APIs",
+      "Implement database schemas and manage data flows",
+      "Ensure security and scalability of backend applications",
+      "Work with DevOps for deployment and CI/CD processes"
+    ]
+  },
+  {
+    "job_id": "8",
+    "title": "Full Stack Developer",
+    "description": "Build and maintain scalable web applications across the stack. Handle both frontend and backend components and work closely with cross-functional teams.",
+    "skills": ["JavaScript", "React", "Node.js", "MongoDB", "PostgreSQL", "Docker", "REST APIs", "CI/CD"],
+    "qualification": "Bachelor’s degree in Computer Science or related field; 3–5 years of experience in full stack development; ability to work on both frontend and backend.",
+    "company_culture": "We are a startup-minded team that thrives on rapid iteration and ownership. Developers are encouraged to take full responsibility for features end to end.",
+    "responsibilities": [
+      "Develop full stack features using modern JS frameworks and backend tools",
+      "Collaborate with product and design teams to build new features",
+      "Write efficient, maintainable code and automated tests",
+      "Manage deployment pipelines and debug production issues"
+    ]
+  },
+  {
+    "job_id": "9",
+    "title": "Python Developer",
+    "description": "Build and optimize backend services, automation tools, and APIs using Python. Contribute to various domains like web applications, data processing, and scripting.",
+    "skills": ["Python", "Django", "Flask", "SQL", "REST APIs", "Celery", "Docker", "Git"],
+    "qualification": "Bachelor’s degree in Computer Science or related field; 2–5 years of hands-on Python development experience; familiarity with cloud environments and API design.",
+    "company_culture": "Our team supports both creativity and technical depth. Python developers are encouraged to explore multiple applications, from web services to data engineering.",
+    "responsibilities": [
+      "Develop robust backend systems and web services in Python",
+      "Write and maintain RESTful APIs using Django or Flask",
+      "Collaborate with frontend developers and DevOps engineers",
+      "Create automation scripts and background job schedulers"
+    ]
+  },
+  {
+    "job_id": "10",
+    "title": "Data Scientist",
+    "description": "Analyze complex datasets to extract insights and build predictive models. Collaborate with cross-functional teams to drive data-driven decision-making.",
+    "skills": ["Python", "R", "SQL", "Machine Learning", "Data Visualization", "Statistical Analysis", "Big Data Technologies"],
+    "qualification": "Master's degree in Data Science, Statistics, or related field; experience with machine learning algorithms and data visualization tools; strong analytical and problem-solving skills.",
+    "company_culture": "We promote a culture of curiosity and continuous learning. Data scientists are encouraged to explore new methodologies and share insights across teams.",
+    "responsibilities": [
+      "Analyze large datasets to identify trends and patterns",
+      "Build and validate predictive models using machine learning techniques",
+      "Collaborate with product teams to define metrics and KPIs",
+      "Present findings and recommendations to stakeholders"
+    ]
+  },
+  {
+    "job_id": "11",
+    "title": "DevOps Engineer",
+    "description": "Implement CI/CD pipelines, manage cloud infrastructure, and ensure system reliability. Collaborate with development teams to streamline deployment processes.",
+    "skills": ["AWS", "Azure", "Docker", "Kubernetes", "CI/CD", "Terraform", "Monitoring Tools"],
+    "qualification": "Bachelor's degree in Computer Science or related field; experience with cloud platforms and container orchestration; strong scripting skills.",
+    "company_culture": "We value collaboration and efficiency. DevOps engineers are integral to our development process, ensuring smooth transitions from development to production.",
+    "responsibilities": [
+      "Design and implement CI/CD pipelines for automated deployments",
+      "Manage cloud infrastructure and optimize resource usage",
+      "Monitor system performance and troubleshoot issues",
+      "Collaborate with developers to improve deployment processes"
+    ]
+  },
+  {
+    "job_id": "12",
+    "title": "UX/UI Designer",
+    "description": "Create user-centered designs for web and mobile applications. Collaborate with product managers and developers to ensure a seamless user experience.",
+    "skills": ["Figma", "Sketch", "Adobe XD", "User Research", "Prototyping", "Wireframing", "Responsive Design"],
+    "qualification": "Bachelor's degree in Design or related field; experience in UX/UI design; strong portfolio showcasing design process and final products.",
+    "company_culture": "We prioritize user experience and creativity. Designers are encouraged to experiment with new ideas and collaborate closely with development teams.",
+    "responsibilities": [
+      "Conduct user research and usability testing",
+      "Create wireframes, prototypes, and high-fidelity designs",
+      "Collaborate with developers to implement designs",
+      "Stay updated with design trends and best practices"
+    ]
+  },
+  {
+    "job_id": "13",
+    "title": "Product Manager",
+    "description": "Lead product development from concept to launch. Collaborate with cross-functional teams to define product vision and strategy.",
+    "skills": ["Product Management", "Agile", "Scrum", "Market Research", "User Stories", "Roadmapping"],
+    "qualification": "Bachelor's degree in Business, Engineering, or related field; experience in product management; strong analytical and communication skills.",
+    "company_culture": "We foster a culture of innovation and collaboration. Product managers are empowered to drive product strategy and work closely with all teams.",
+    "responsibilities": [
+      "Define product vision and roadmap based on market research",
+      "Collaborate with engineering, design, and marketing teams",
+      "Gather and prioritize product requirements",
+      "Monitor product performance and iterate based on feedback"
+    ]
+  },
+  {
+    "job_id": "14",
+    "title": "Business Analyst",
+    "description": "Analyze business processes and identify areas for improvement. Collaborate with stakeholders to gather requirements and define solutions.",
+    "skills": ["Business Analysis", "Requirements Gathering", "Process Mapping", "Data Analysis", "Stakeholder Management"],
+    "qualification": "Bachelor's degree in Business, IT, or related field; experience in business analysis; strong analytical and problem-solving skills.",
+    "company_culture": "We value analytical thinking and collaboration. Business analysts are key players in driving process improvements and ensuring stakeholder satisfaction.",
+    "responsibilities": [
+      "Analyze business processes and identify areas for improvement",
+      "Gather and document requirements from stakeholders",
+      "Collaborate with development teams to define solutions",
+      "Monitor project progress and ensure alignment with business goals"
+    ]
+  },
+  {
+    "job_id": "15",
+    "title": "Network Engineer",
+    "description": "Design, implement, and manage network infrastructure. Ensure network security and performance while collaborating with IT teams.",
+    "skills": ["Networking", "TCP/IP", "Routing", "Switching", "Firewall Configuration", "Network Security", "Troubleshooting"],
+    "qualification": "Bachelor's degree in Computer Science or related field; experience in network engineering; strong understanding of networking protocols and security.",
+    "company_culture": "We promote a culture of collaboration and continuous improvement. Network engineers are encouraged to share knowledge and work closely with IT teams.",
+    "responsibilities": [
+      "Design and implement network infrastructure solutions",
+      "Monitor network performance and troubleshoot issues",
+      "Ensure network security and compliance with standards",
+      "Collaborate with IT teams for seamless integration"
+    ]
+  },
+  {
+    "job_id": "16",
+    "title": "Cybersecurity Analyst",
+    "description": "Monitor and protect the organization's IT infrastructure from cyber threats. Conduct security assessments and implement security measures.",
+    "skills": ["Cybersecurity", "Network Security", "Incident Response", "Vulnerability Assessment", "Security Tools", "Risk Management"],
+    "qualification": "Bachelor's degree in Cybersecurity, Information Technology, or related field; experience in cybersecurity; strong analytical and problem-solving skills.",
+    "company_culture": "We prioritize security and proactive measures. Cybersecurity analysts are integral to our risk management strategy and are encouraged to stay updated with the latest threats.",
+    "responsibilities": [
+      "Monitor network traffic for suspicious activity",
+      "Conduct vulnerability assessments and penetration testing",
+      "Implement security measures and best practices",
+      "Collaborate with IT teams to ensure compliance"
+    ]
+  },
+  {
+    "job_id": "17",
+    "title": "Cloud Engineer",
+    "description": "Design and manage cloud infrastructure and services. Collaborate with development teams to ensure efficient cloud solutions.",
+    "skills": ["Cloud Computing", "AWS", "Azure", "GCP", "Infrastructure as Code", "DevOps", "Scripting"],
+    "qualification": "Bachelor's degree in Computer Science or related field; experience in cloud engineering; strong understanding of cloud platforms and DevOps practices.",
+    "company_culture": "We embrace innovation and collaboration. Cloud engineers are encouraged to explore new technologies and work closely with development teams.",
+    "responsibilities": [
+      "Design and implement cloud infrastructure solutions",
+      "Manage cloud services and optimize resource usage",
+      "Collaborate with development teams for seamless integration",
+      "Monitor cloud performance and troubleshoot issues"
+    ]
+  },
+  {
+    "job_id": "18",
+    "title": "Quality Assurance Engineer",
+    "description": "Develop and execute test plans to ensure software quality. Collaborate with development teams to identify and resolve defects.",
+    "skills": ["Testing", "Automation", "Selenium", "JIRA", "Agile", "Test Cases", "Bug Tracking"],
+    "qualification": "Bachelor's degree in Computer Science or related field; experience in software testing; strong analytical and problem-solving skills.",
+    "company_culture": "We value quality and attention to detail. QA engineers are encouraged to collaborate with development teams to ensure high-quality software delivery.",
+    "responsibilities": [
+      "Develop and execute test plans and test cases",
+      "Automate testing processes using tools like Selenium",
+      "Identify and document defects using bug tracking systems",
+      "Collaborate with development teams for continuous improvement"
+    ]
+  },
+  {
+    "job_id": "19",
+    "title": "Technical Writer",
+    "description": "Create and maintain technical documentation for software products. Collaborate with development teams to ensure accurate and user-friendly documentation.",
+    "skills": ["Technical Writing", "Documentation", "User Manuals", "API Documentation", "Content Management Systems"],
+    "qualification": "Bachelor's degree in English, Technical Communication, or related field; experience in technical writing; strong communication and writing skills.",
+    "company_culture": "We value clear communication and collaboration. Technical writers are encouraged to work closely with development teams to create comprehensive documentation.",
+    "responsibilities": [
+      "Create and maintain user manuals, API documentation, and other technical content",
+      "Collaborate with development teams to gather information",
+      "Ensure documentation is user-friendly and accessible",
+      "Stay updated with product changes and revise documentation accordingly"
+    ]
+  },
+  {
+    "job_id": "20",
+    "title": "Salesforce Developer",
+    "description": "Design and develop Salesforce applications and integrations. Collaborate with business teams to gather requirements and implement solutions.",
+    "skills": ["Salesforce", "Apex", "Visualforce", "Lightning", "REST APIs", "Data Migration", "Agile"],
+    "qualification": "Bachelor's degree in Computer Science or related field; experience in Salesforce development; strong understanding of Salesforce architecture and best practices.",
+    "company_culture": "We promote a culture of innovation and collaboration. Salesforce developers are encouraged to explore new features and work closely with business teams.",
+    "responsibilities": [
+      "Design and develop Salesforce applications using Apex, Visualforce, and Lightning",
+      "Integrate Salesforce with external systems using REST APIs",
+      "Collaborate with business teams to gather requirements",
+      "Ensure data integrity and perform data migrations"
+    ]
+  },
+  {
+    "job_id": "21",
+    "title": "Mobile App Developer",
+    "description": "Design and develop mobile applications for iOS and Android platforms. Collaborate with cross-functional teams to deliver high-quality mobile solutions.",
+    "skills": ["Swift", "Kotlin", "React Native", "Flutter", "REST APIs", "UI/UX Design", "Agile", "Firebase"],
+    "qualification": "Bachelor's degree in Computer Science or related field; experience in mobile app development; strong understanding of mobile design principles.",
+    "company_culture": "We value creativity and innovation. Mobile app developers are encouraged to experiment with new technologies and collaborate closely with design teams.",
+    "responsibilities": [
+      "Design and develop mobile applications for iOS and Android platforms and ",
+      "Collaborate with design teams to create user-friendly interfaces, Firebase",
+      "Integrate mobile apps with backend services using REST APIs, Firebase",
+      "Test and debug mobile applications for performance and usability, Firebase"
+    ]
+  },
+  {
+    "job_id": "22",
+    "title": "Game Developer",
+    "description": "Design and develop interactive games for various platforms. Collaborate with artists and designers to create engaging gaming experiences.",
+    "skills": ["Unity", "C#", "Game Design", "3D Modeling", "Animation", "Physics Simulation", "Multiplayer Networking"],
+    "qualification": "Bachelor's degree in Game Development, Computer Science, or related field; experience in game development; strong understanding of game design principles.",
+    "company_culture": "We promote a culture of creativity and collaboration. Game developers are encouraged to explore new ideas and work closely with artists and designers.",
+    "responsibilities": [
+      "Design and develop interactive games using Unity and C#",
+      "Collaborate with artists and designers to create engaging gaming experiences",
+      "Implement game mechanics, physics, and multiplayer networking",
+      "Test and optimize games for performance and user experience"
+    ]
+  },
+  {
+    "job_id": "23",
+    "title": "Blockchain Developer",
+    "description": "Design and develop blockchain applications and smart contracts. Collaborate with cross-functional teams to implement decentralized solutions.",
+    "skills": ["Blockchain", "Ethereum", "Solidity", "Smart Contracts", "Cryptography", "Distributed Systems"],
+    "qualification": "Bachelor's degree in Computer Science or related field; experience in blockchain development; strong understanding of cryptography and distributed systems.",
+    "company_culture": "We value innovation and collaboration. Blockchain developers are encouraged to explore new technologies and work closely with cross-functional teams.",
+    "responsibilities": [
+      "Design and develop blockchain applications and smart contracts",
+      "Collaborate with cross-functional teams to implement decentralized solutions",
+      "Ensure security and scalability of blockchain applications",
+      "Stay updated with blockchain trends and best practices"
+    ]
+  },
+  {
+    "job_id": "24",
+    "title": "Data Analyst",
+    "description": "Analyze and interpret complex datasets to provide actionable insights. Collaborate with business teams to support data-driven decision-making.",
+    "skills": ["Data Analysis", "SQL", "Excel", "Data Visualization", "Business Intelligence Tools", "Statistical Analysis", "Power BI", "Sisense", "Python",
+  "numpy", "pandas", "Google Colab", "Postgres", "Mysql", "Team Collaboration", "Communication"],
+    "qualification": "Bachelor's degree in Data Science, Statistics, or related field; experience in data analysis; strong analytical and problem-solving skills.",
+    "company_culture": "We promote a culture of curiosity and collaboration. Data analysts are encouraged to explore new methodologies and share insights across teams.",
+    "responsibilities": [
+      "Analyze complex datasets to extract insights and trends",
+      "Create visualizations and reports to communicate findings",
+      "Collaborate with business teams to support data-driven decisions",
+      "Stay updated with industry trends and best practices"
+    ]
+  },
+  {
+    "job_id": "25",
+    "title": "SEO Specialist",
+    "description": "Optimize website content and structure for search engines. Collaborate with marketing teams to improve organic search visibility.",
+    "skills": ["SEO", "Keyword Research", "On-page Optimization", "Link Building", "Analytics Tools", "Content Strategy"],
+    "qualification": "Bachelor's degree in Marketing, Communications, or related field; experience in SEO; strong analytical and problem-solving skills.",
+    "company_culture": "We value creativity and data-driven decision-making. SEO specialists are encouraged to experiment with new strategies and collaborate closely with marketing teams.",
+    "responsibilities": [
+      "Conduct keyword research and on-page optimization",
+      "Develop and implement link-building strategies",
+      "Analyze website performance using analytics tools",
+      "Collaborate with content teams to improve SEO strategy"
+    ]
+  },
+  {
+    "job_id": "26",
+    "title": "Digital Marketing Specialist",
+    "description": "Develop and execute digital marketing campaigns across various channels. Collaborate with cross-functional teams to drive brand awareness and engagement.",
+    "skills": ["Digital Marketing", "Social Media", "Email Marketing", "Content Marketing", "Analytics Tools", "PPC"],
+    "qualification": "Bachelor's degree in Marketing, Communications, or related field; experience in digital marketing; strong analytical and problem-solving skills.",
+    "company_culture": "We promote a culture of creativity and collaboration. Digital marketing specialists are encouraged to explore new strategies and work closely with cross-functional teams.",
+    "responsibilities": [
+      "Develop and execute digital marketing campaigns across various channels",
+      "Analyze campaign performance using analytics tools",
+      "Collaborate with content teams to create engaging content",
+      "Stay updated with digital marketing trends and best practices"
+    ]
+  },
+  {
+    "job_id": "27",
+    "title": "Content Writer",
+    "description": "Create engaging and informative content for various platforms. Collaborate with marketing teams to develop content strategies.",
+    "skills": ["Content Writing", "SEO", "Research", "Editing", "Social Media", "Content Management Systems"],
+    "qualification": "Bachelor's degree in English, Communications, or related field; experience in content writing; strong writing and editing skills.",
+    "company_culture": "We value creativity and collaboration. Content writers are encouraged to experiment with new ideas and work closely with marketing teams.",
+    "responsibilities": [
+      "Create engaging and informative content for various platforms",
+      "Conduct research to support content development",
+      "Collaborate with marketing teams to develop content strategies",
+      "Edit and proofread content for accuracy and clarity"
+    ]
+  },
+  {
+    "job_id": "28",
+    "title": "Graphic Designer",
+    "description": "Create visual content for marketing and branding purposes. Collaborate with cross-functional teams to develop design concepts.",
+    "skills": ["Graphic Design", "Adobe Creative Suite", "Illustration", "Branding", "Typography", "UI/UX Design"],
+    "qualification": "Bachelor's degree in Graphic Design or related field; experience in graphic design; strong portfolio showcasing design work.",
+    "company_culture": "We value creativity and collaboration. Graphic designers are encouraged to explore new ideas and work closely with marketing and product teams.",
+    "responsibilities": [
+      "Create visual content for marketing and branding purposes",
+      "Collaborate with cross-functional teams to develop design concepts",
+      "Ensure designs align with brand guidelines and objectives",
+      "Stay updated with design trends and best practices"
+    ]
+  },
+  {
+    "job_id": "29",
+    "title": "HR Manager",
+    "description": "Manage HR functions including recruitment, employee relations, and performance management. Collaborate with leadership to align HR strategies with business goals.",
+    "skills": ["HR Management", "Recruitment", "Employee Relations", "Performance Management", "Training and Development", "HRIS"],
+    "qualification": "Bachelor's degree in Human Resources or related field; experience in HR management; strong interpersonal and communication skills.",
+    "company_culture": "We value collaboration and employee development. HR managers are encouraged to foster a positive work environment and support employee growth.",
+    "responsibilities": [
+      "Manage recruitment processes and onboarding of new employees",
+      "Develop and implement HR policies and procedures",
+      "Support employee relations and performance management",
+      "Collaborate with leadership to align HR strategies with business goals"
+    ]
+  },
+  {
+    "job_id": "30",
+    "title": "Finance Analyst",
+    "description": "Analyze financial data and prepare reports to support decision-making. Collaborate with cross-functional teams to drive financial performance.",
+    "skills": ["Financial Analysis", "Excel", "Financial Modeling", "Budgeting", "Forecasting", "Data Visualization"],
+    "qualification": "Bachelor's degree in Finance, Accounting, or related field; experience in financial analysis; strong analytical and problem-solving skills.",
+    "company_culture": "We promote a culture of collaboration and data-driven decision-making. Finance analysts are encouraged to share insights and work closely with cross-functional teams.",
+    "responsibilities": [
+      "Analyze financial data and prepare reports for management",
+      "Develop financial models for budgeting and forecasting",
+      "Collaborate with cross-functional teams to support financial performance",
+      "Stay updated with industry trends and best practices"
+    ]
+  },
+  {
+    "job_id": "31",
+    "title": "Customer Support Specialist",
+    "description": "Provide support to customers via phone, email, and chat. Collaborate with cross-functional teams to resolve customer issues.",
+    "skills": ["Customer Service", "Communication", "Problem-Solving", "CRM Software", "Technical Support"],
+    "qualification": "Bachelor's degree in Business or related field; experience in customer support; strong communication and problem-solving skills.",
+    "company_culture": "We value customer satisfaction and collaboration. Customer support specialists are encouraged to share feedback and work closely with product and engineering teams.",
+    "responsibilities": [
+      "Provide support to customers via phone, email, and chat",
+      "Resolve customer issues and escalate when necessary",
+      "Collaborate with cross-functional teams to improve customer experience",
+      "Stay updated with product knowledge and industry trends"
+    ]
+  },
+  {
+    "job_id": "32",
+    "title": "IT Support Specialist",
+    "description": "Provide technical support to employees and manage IT infrastructure. Collaborate with cross-functional teams to ensure smooth IT operations.",
+    "skills": ["Technical Support", "Networking", "Troubleshooting", "Windows", "Linux", "Help Desk Software"],
+    "qualification": "Bachelor's degree in Information Technology or related field; experience in IT support; strong technical and problem-solving skills.",
+    "company_culture": "We value collaboration and technical expertise. IT support specialists are encouraged to share knowledge and work closely with cross-functional teams.",
+    "responsibilities": [
+      "Provide technical support to employees via phone, email, and chat",
+      "Manage IT infrastructure and troubleshoot issues",
+      "Collaborate with cross-functional teams to improve IT operations",
+      "Stay updated with industry trends and best practices"
+    ]
+  },
+  {
+    "job_id": "33",
+    "title": "Data Engineer",
+    "description": "Design and implement data pipelines and ETL processes. Collaborate with data scientists and analysts to support data-driven decision-making.",
+    "skills": ["Data Engineering", "ETL", "SQL", "Python", "Big Data Technologies", "Data Warehousing"],
+    "qualification": "Bachelor's degree in Computer Science or related field; experience in data engineering; strong analytical and problem-solving skills.",
+    "company_culture": "We promote a culture of collaboration and innovation. Data engineers are encouraged to explore new technologies and work closely with data scientists and analysts.",
+    "responsibilities": [
+      "Design and implement data pipelines and ETL processes",
+      "Collaborate with data scientists and analysts to support data-driven decision-making",
+      "Ensure data quality and integrity",
+      "Stay updated with industry trends and best practices"
+    ]
+  },
+  {
+    "job_id": "34",
+    "title": "Business Intelligence Analyst",
+    "description": "Analyze business data and create reports to support decision-making. Collaborate with cross-functional teams to drive business performance.",
+    "skills": ["Business Intelligence", "Data Analysis", "SQL", "Data Visualization", "Reporting Tools"],
+    "qualification": "Bachelor's degree in Business, Data Science, or related field; experience in business intelligence; strong analytical and problem-solving skills.",
+    "company_culture": "We promote a culture of collaboration and data-driven decision-making. Business intelligence analysts are encouraged to share insights and work closely with cross-functional teams.",
+    "responsibilities": [
+      "Analyze business data and create reports for management",
+      "Develop dashboards and visualizations to communicate findings",
+      "Collaborate with cross-functional teams to support business performance",
+      "Stay updated with industry trends and best practices"
+    ]
+  },
+  {
+    "job_id": "35",
+    "title": "Database Administrator",
+    "description": "Manage and maintain database systems. Collaborate with development teams to ensure data integrity and performance.",
+    "skills": ["Database Management", "SQL", "NoSQL", "Performance Tuning", "Backup and Recovery", "Data Security"],
+    "qualification": "Bachelor's degree in Computer Science or related field; experience in database administration; strong analytical and problem-solving skills.",
+    "company_culture": "We value collaboration and technical expertise. Database administrators are encouraged to share knowledge and work closely with development teams.",
+    "responsibilities": [
+      "Manage and maintain database systems",
+      "Ensure data integrity, security, and performance",
+      "Collaborate with development teams to support application needs",
+      "Stay updated with industry trends and best practices"
+    ]
+  },
+  {
+    "job_id": "36",
+    "title": "System Administrator",
+    "description": "Manage and maintain IT systems and infrastructure. Collaborate with cross-functional teams to ensure system reliability and performance.",
+    "skills": ["System Administration", "Networking", "Windows", "Linux", "Virtualization", "Scripting"],
+    "qualification": "Bachelor's degree in Information Technology or related field; experience in system administration; strong technical and problem-solving skills.",
+    "company_culture": "We value collaboration and technical expertise. System administrators are encouraged to share knowledge and work closely with cross-functional teams.",
+    "responsibilities": [
+      "Manage and maintain IT systems and infrastructure",
+      "Ensure system reliability, security, and performance",
+      "Collaborate with cross-functional teams to support IT operations",
+      "Stay updated with industry trends and best practices"
+    ]
+  },
+  {
+    "job_id": "37",
+    "title": "Network Security Engineer",
+    "description": "Design and implement network security solutions. Collaborate with IT teams to ensure network security and compliance.",
+    "skills": ["Network Security", "Firewalls", "Intrusion Detection", "VPN", "Security Protocols", "Risk Assessment"],
+    "qualification": "Bachelor's degree in Cybersecurity, Information Technology, or related field; experience in network security; strong analytical and problem-solving skills.",
+    "company_culture": "We prioritize security and proactive measures. Network security engineers are integral to our risk management strategy and are encouraged to stay updated with the latest threats.",
+    "responsibilities": [
+      "Design and implement network security solutions",
+      "Monitor network traffic for suspicious activity",
+      "Conduct risk assessments and vulnerability testing",
+      "Collaborate with IT teams to ensure compliance"
+    ]
+  },
+  {
+    "job_id": "38",
+    "title": "Cloud Security Engineer",
+    "description": "Design and implement cloud security solutions. Collaborate with IT teams to ensure cloud security and compliance.",
+    "skills": ["Cloud Security", "AWS", "Azure", "GCP", "Security Protocols", "Risk Assessment"],
+    "qualification": "Bachelor's degree in Cybersecurity, Information Technology, or related field; experience in cloud security; strong analytical and problem-solving skills.",
+    "company_culture": "We prioritize security and proactive measures. Cloud security engineers are integral to our risk management strategy and are encouraged to stay updated with the latest threats.",
+    "responsibilities": [
+      "Design and implement cloud security solutions",
+      "Monitor cloud environments for suspicious activity",
+      "Conduct risk assessments and vulnerability testing",
+      "Collaborate with IT teams to ensure compliance"
+    ]
+  },
+  
+    {
+      "job_id": "39",
+      "title": "Driver",
+      "description": "Responsible for safely transporting passengers or goods to assigned destinations. Must follow traffic laws and maintain vehicle cleanliness and functionality.",
+      "skills": ["Defensive Driving", "Time Management", "Navigation", "Vehicle Maintenance", "Customer Service"],
+      "qualification": "Valid driver’s license; minimum 2 years of driving experience; familiarity with GPS and city routes; good communication and punctuality.",
+      "company_culture": "We maintain a safety-first culture with regular training and support. Drivers are treated with respect and recognized for their reliability and discipline.",
+      "responsibilities": [
+        "Safely transport goods or individuals on assigned routes",
+        "Perform routine vehicle inspections and maintenance",
+        "Keep accurate records of travel logs and fuel expenses",
+        "Follow all traffic laws and organizational protocols"
+      ]
+    },
+    {
+      "job_id": "40",
+      "title": "Security Guard",
+      "description": "Protect property, assets, and personnel by maintaining a safe and secure environment. Monitor premises, control access, and respond to security incidents.",
+      "skills": ["Surveillance", "Patrolling", "Conflict Resolution", "Emergency Response", "Report Writing"],
+      "qualification": "High school diploma or equivalent; prior experience in security preferred; valid security license/certification; physical fitness and alertness.",
+      "company_culture": "We foster a professional and vigilant security team with clear protocols and regular training. Guards are encouraged to stay proactive and support one another.",
+      "responsibilities": [
+        "Monitor and authorize entry and exit of employees, visitors, and other persons",
+        "Patrol premises to prevent and detect signs of intrusion",
+        "Report suspicious activities or incidents immediately",
+        "Respond to alarms and emergencies following proper procedure"
+      ]
+    },
+    {
+      "job_id": "41",
+      "title": "Chef",
+      "description": "Plan, prepare, and cook a variety of dishes while maintaining high standards of hygiene and presentation. Manage kitchen staff and inventory.",
+      "skills": ["Cooking", "Menu Planning", "Food Safety", "Kitchen Management", "Creativity", "Time Management"],
+      "qualification": "Diploma in Culinary Arts or equivalent; 3+ years experience in a commercial kitchen; knowledge of food safety standards and diverse cuisines.",
+      "company_culture": "We value creativity, cleanliness, and collaboration. Chefs are encouraged to experiment with new recipes and lead a positive kitchen environment.",
+      "responsibilities": [
+        "Prepare and cook dishes according to recipes and quality standards",
+        "Oversee kitchen operations and ensure hygiene compliance",
+        "Train junior kitchen staff and assign tasks",
+        "Manage food inventory and place supply orders as needed"
+      ]
+    },
+    {
+      "job_id": "42",
+      "title": "Technical Manager",
+      "description": "Lead technical teams and projects, ensuring high-quality delivery and alignment with business goals. Responsible for team mentoring, architecture decisions, and stakeholder coordination.",
+      "skills": ["Project Management", "Team Leadership", "Software Architecture", "Agile Methodologies", "Stakeholder Communication", "Technical Documentation"],
+      "qualification": "Bachelor’s or Master’s in Computer Science or Engineering; 7+ years of technical experience including 2+ years in a leadership role; strong problem-solving and communication skills.",
+      "company_culture": "We empower leaders to take initiative and support their teams. Our managers foster a culture of innovation, growth, and accountability.",
+      "responsibilities": [
+        "Lead development teams across multiple projects",
+        "Define technical strategy and architecture in alignment with company goals",
+        "Mentor engineers and conduct regular performance reviews",
+        "Coordinate with product, QA, and other departments to ensure project success"
+      ]
+    },
+    {
+      "job_id": "43",
+      "title": "Data Scientist",
+      "description": "Analyze complex data sets to derive actionable insights and support decision-making. Collaborate with cross-functional teams to implement data-driven solutions.",
+      "skills": ["Data Analysis", "Machine Learning", "Python", "R", "Statistical Modeling", "Data Visualization"],
+      "qualification": "Master's degree in Data Science, Statistics, or related field; experience in data analysis and machine learning; strong analytical and problem-solving skills.",
+      "company_culture": "We promote a culture of curiosity and collaboration. Data scientists are encouraged to explore new methodologies and share insights across teams.",
+      "responsibilities": [
+        "Analyze complex data sets to extract insights and trends",
+        "Develop predictive models and algorithms",
+        "Collaborate with cross-functional teams to implement data-driven solutions",
+        "Stay updated with industry trends and best practices"
+      ]
+    },
+    {
+      "job_id": "44",
+      "title": "DevOps Engineer",
+      "description": "Design and implement CI/CD pipelines and automation solutions. Collaborate with development and operations teams to improve deployment processes.",
+      "skills": ["DevOps", "CI/CD", "Automation", "Docker", "Kubernetes", "Scripting"],
+      "qualification": "Bachelor's degree in Computer Science or related field; experience in DevOps practices; strong understanding of CI/CD tools and cloud platforms.",
+      "company_culture": "We embrace innovation and collaboration. DevOps engineers are encouraged to explore new technologies and work closely with development and operations teams.",
+      "responsibilities": [
+        "Design and implement CI/CD pipelines for software deployment",
+        "Automate infrastructure provisioning and management",
+        "Collaborate with development and operations teams to improve processes",
+        "Monitor system performance and troubleshoot issues"
+      ]
+    },
+    {
+      "job_id": "45",
+      "title": "UI/UX Designer",
+      "description": "Design user interfaces and experiences for web and mobile applications. Collaborate with product and development teams to create user-friendly designs.",
+      "skills": ["UI Design", "UX Design", "Prototyping", "Wireframing", "User Research", "Adobe Creative Suite"],
+      "qualification": "Bachelor's degree in Graphic Design, Interaction Design, or related field; experience in UI/UX design; strong portfolio showcasing design work.",
+      "company_culture": "We value creativity and collaboration. UI/UX designers are encouraged to explore new ideas and work closely with product and development teams.",
+      "responsibilities": [
+        "Design user interfaces and experiences for web and mobile applications",
+        "Conduct user research and usability testing",
+        "Create wireframes, prototypes, and design specifications",
+        "Collaborate with product and development teams to ensure design implementation"
+      ]
+    },
+    {
+      "job_id": "46",
+      "title": "Product Manager",
+      "description": "Define product vision and strategy. Collaborate with cross-functional teams to deliver high-quality products that meet customer needs.",
+      "skills": ["Product Management", "Agile Methodologies", "Market Research", "Stakeholder Communication", "Roadmap Planning"],
+      "qualification": "Bachelor's degree in Business, Marketing, or related field; experience in product management; strong analytical and problem-solving skills.",
+      "company_culture": "We value collaboration and innovation. Product managers are encouraged to take ownership of their products and work closely with cross-functional teams.",
+      "responsibilities": [
+        "Define product vision and strategy in alignment with business goals",
+        "Conduct market research and gather customer feedback",
+        "Collaborate with development, marketing, and sales teams to deliver products",
+        "Monitor product performance and iterate based on user feedback"
+  ]
+},
+  {
+    "job_id": "47",
+    "title": "Business Analyst",
+    "description": "Analyze business processes and requirements. Collaborate with stakeholders to identify opportunities for improvement and support decision-making.",
+    "skills": ["Business Analysis", "Requirements Gathering", "Process Mapping", "Data Analysis", "Stakeholder Communication"],
+    "qualification": "Bachelor's degree in Business, Information Technology, or related field; experience in business analysis; strong analytical and problem-solving skills.",
+    "company_culture": "We promote a culture of collaboration and data-driven decision-making. Business analysts are encouraged to share insights and work closely with stakeholders.",
+    "responsibilities": [
+      "Analyze business processes and gather requirements",
+      "Create process maps and documentation",
+      "Collaborate with stakeholders to identify opportunities for improvement",
+      "Support decision-making with data analysis and reporting"
+    ]
+  },
+  {
+    "job_id": "48",
+    "title": "Network Engineer",
+    "description": "Design and implement network infrastructure and solutions. Collaborate with IT teams to ensure network performance and security.",
+    "skills": ["Networking", "Routing", "Switching", "Firewall", "VPN", "Network Monitoring"],
+    "qualification": "Bachelor's degree in Computer Science or related field; experience in network engineering; strong understanding of networking protocols and technologies.",
+    "company_culture": "We value collaboration and technical expertise. Network engineers are encouraged to share knowledge and work closely with IT teams.",
+    "responsibilities": [
+      "Design and implement network infrastructure solutions",
+      "Monitor network performance and troubleshoot issues",
+      "Collaborate with IT teams to ensure network security",
+      "Stay updated with industry trends and best practices"
+    ]
+  }
+]
